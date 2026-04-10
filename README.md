@@ -12,7 +12,7 @@ Description of project (login.java, main.java and loginTest.java)
 
 ---
 
-##Features 
+## Features 
 Allows you to enter your details required for you to login.
 
 
