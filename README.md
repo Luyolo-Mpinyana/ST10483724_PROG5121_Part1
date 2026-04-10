@@ -13,9 +13,7 @@ Description of project (login.java, main.java and loginTest.java)
 ---
 
 ##Features 
-###Username Validation
-
-###Password Validation
+Allows you to enter your details required for you to login.
 
 
 
