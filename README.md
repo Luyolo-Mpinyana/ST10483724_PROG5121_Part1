@@ -13,7 +13,7 @@ Description of project (login.java, mainApp.java and loginTest.java)
 ---
 
 ## Features 
-Allows you to enter your details required for you to login. Then giving you the optio to login.
+Allows you to enter your details required for you to login. Then giving you the option to login.
 
 
 
