@@ -8,7 +8,7 @@
 
 
 ## Project Information
-Description of project (login.java, main.java and loginTest.java)
+Description of project (login.java, mainApp.java and loginTest.java)
 
 ---
 
