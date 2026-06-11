@@ -4,9 +4,6 @@
 - Student Number: ST10483724
 - Module: PROG5121
 
-
-
-
 ## Project Information
 Description of project (login.java, mainApp.java and loginTest.java)
 
