@@ -25,5 +25,7 @@ Allows you to enter your details required for you to login. Then giving you the 
 Description of project (login.java, mainApp.java, message.java, loginTest.java and messageTest.java)
 ## Features:
 You as a user are able to register login and send a message.
+## Part 3 Information
+An additional menu for stored messages was added an new option are now avaible when logged in.
   
 
